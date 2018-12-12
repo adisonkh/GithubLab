@@ -1,3 +1,4 @@
 1) รู้วิธีการสร้าง repository บน github/ bitbucket/ gitlab/ private git server
 2) วิธีทำ pull request ไปยัง github ที่เราดึง code เข้ามาใช้งาน
-3) 
+3) การ fork project คนอื่นมาแล้ว pull request เพื่อให้เจ้าของ project merge กลับ
+4) การ fetch ข้อมูลจาก repo 
